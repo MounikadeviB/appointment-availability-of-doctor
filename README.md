@@ -1,4 +1,4 @@
-# appointment-availability-of-doctor
+# tasks
 
 #%RAML 1.0
 title: Doctors appointment
